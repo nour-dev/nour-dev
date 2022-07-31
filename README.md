@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**nour-dev/nour-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I am Alnoor . Full-Stack Developer. I like to write clean tested code . My main development methodology is Kanban with **B**ehavior **D**riven **D**evelopement. 
+I know some Rust . but but not enough to make fullstack web app with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### My Stack
+my Main development stack is :
+- typescript
+- vue
+- node.js
+- postgresql
+
+### General
+- 🔭 I’m currently working on custom ERP with my personal stack 
+- 🌱 I’m currently learning UX/UI
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about vue, node.js , featherjs
+- 📫 How to reach me: @khand_nor (telegram)
