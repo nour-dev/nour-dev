@@ -3,7 +3,7 @@ Hi there 👋
 ### About me
 
 I am Alnoor . Full-Stack Developer. I like to write clean tested code . My main development methodology is Kanban with **B**ehavior **D**riven **D**evelopement. 
-I know some Rust . but but not enough to make fullstack web app with it.
+I know some Rust.
 
 ### My Stack
 my Main development stack is :
@@ -17,7 +17,7 @@ my Main development stack is :
 - 🌱 I’m currently learning UX/UI
 - 👯 I’m looking to collaborate on interested `rich web ui projects` (html,css,js,vue,...), `unconventional backend projects` with nodejs.
 - 💬 Ask me about vue, node.js , featherjs
-- 📫 How to reach me: @khand_nor (telegram)
+- 📫 How to reach me: t.me/noor_tg (telegram)
 
 ### Languages And Tools:
 
